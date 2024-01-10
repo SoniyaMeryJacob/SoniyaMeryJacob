@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/soniyameryjacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soniyameryjacob" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/soniyamery22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="soniyamery22" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/gtech-mulearn-1109145212644770053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gtech-mulearn-1109145212644770053" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gtech-mulearn-1109145212644770053" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
